@@ -1,0 +1,8 @@
+﻿HTTP/1.1 200 OK
+Content-Length: 15445
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Server: BWS/1.1 Microsoft-HTTPAPI/2.0
+Date: Tue, 10 Jun 2014 08:15:53 GMT
+
+{"name":"Jack","age":"26","sex":"Male"}

@@ -1,0 +1,9 @@
+D:\mock-server\src\mockserver\bin\Release\Responses\1.txt
+D:\mock-server\src\mockserver\bin\Release\Rules.txt
+D:\mock-server\src\mockserver\bin\Release\MockServer.exe.config
+D:\mock-server\src\mockserver\bin\Release\MockServer.exe
+D:\mock-server\src\mockserver\bin\Release\MockServer.pdb
+D:\mock-server\src\mockserver\bin\Release\FiddlerCore4.dll
+D:\mock-server\src\mockserver\bin\Release\FiddlerCore4.xml
+D:\mock-server\src\mockserver\obj\x86\Release\MockServer.exe
+D:\mock-server\src\mockserver\obj\x86\Release\MockServer.pdb
