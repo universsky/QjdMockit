@@ -1,7 +1,7 @@
 {
   "code": 0,
   "msg": "find loan success",
-  "data": [
+  "data": 
     {
       "id": "e29fc7e7-2ed4-4d1b-a0f2-874c0c7fe7f4",
       "provinceCode": 33,
@@ -18,5 +18,5 @@
       "phone": "",
       "status": 3
     }
-  ]
+  
 }
