@@ -17,3 +17,6 @@ D:\mock-server\src\mockserver\bin\Debug\MockServer.exe
 D:\mock-server\src\mockserver\bin\Debug\MockServer.pdb
 D:\mock-server\src\mockserver\bin\Debug\FiddlerCore4.xml
 D:\mock-server\src\mockserver\bin\Debug\FiddlerCore4.dll
+D:\qjdmockit\trunk\src\mockserver\bin\Debug\MockServer.exe.config
+D:\qjdmockit\trunk\src\mockserver\obj\x86\Debug\MockServer.exe
+D:\qjdmockit\trunk\src\mockserver\obj\x86\Debug\MockServer.pdb
