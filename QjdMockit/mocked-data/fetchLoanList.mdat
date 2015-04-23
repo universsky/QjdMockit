@@ -1,11 +1,5 @@
-HTTP/1.1 200 OK with automatic headers
-Date: Wed, 22 Apr 2015 08:57:07 GMT
-Cache-Control: max-age=0, must-revalidate
-Content-Type: application/json
-Access-Control-Allow-Origin: *
-
 {
-  "code": 0,
+  "code": 1,
   "msg": "find loan success",
   "data": [
     {
