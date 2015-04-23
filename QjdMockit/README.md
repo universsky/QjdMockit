@@ -9,6 +9,7 @@ Why not Fiddler's AutoResponder?
 Fiddler's AutoResponder is a little difficult for test engineers to use.
 Fiddler's AutoResponder is UI driven. Mock Server is file driven, which gives you more extensibility.
 Fiddler's AutoResponder cannot be used to mock response if the request is encrypted and you want to tamper only if the request body contains certain string. It doesn't work either if the response need to be encrypted but you expect to set a plain text response. But the Mock Server can.
+
 This mock server is open source so that you can add additional functions to support your test team.
 Other enhancements are provided in Mock Server, such as support for HTTP header/body split in Rule, comment in Rule etc.
 
